@@ -82,8 +82,8 @@ header a{
     display: flex;
     flex-direction: column;
     padding: 10px;
-    /* box-shadow: 4px 4px 12px black; */
-    border: 1px solid black;
+    box-shadow: 4px 4px 12px black;
+    /* border: 1px solid black; */
 }
 .service-box h3,p{
     margin-top: 10px;
@@ -106,10 +106,10 @@ header a{
     color: white;
     margin: 15px 0px;
 }
-.service-box:hover{
+/* .service-box:hover{
     border: 0px solid black;
     box-shadow: 4px 4px 12px black;
-}
+} */
 .service-box a:hover{
     color: red;
     box-shadow: 5px 5px 8px black;
