@@ -19,6 +19,9 @@ header{
     display: flex;
     flex-direction: row;
 }
+.active{
+    color: cyan;
+}
 #social-icon ul{
     display: flex;
     flex-direction: row;
